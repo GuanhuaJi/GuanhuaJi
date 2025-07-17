@@ -6,7 +6,7 @@ body {
     color: #333;
 }
 
-header {
+#hero {
     background: #4e8ef7;
     color: white;
     padding: 2rem;
